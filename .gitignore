@@ -13,3 +13,4 @@ packaged-template.yaml
 template.output.yaml
 lib
 setEnv.sh
+packages-lock.json
